@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5jfLBIr39re_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Pythonepia Chatbot</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Pythonepia_Chatbot_ORG">
+    <organization identifier="Pythonepia_Chatbot_ORG">
+      <title>Pythonepia Chatbot</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5jfLBIr39re_course_id_RES">
+        <title>Pythonepia Chatbot</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5jfLBIr39re_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6gYE40MPxih_80.jpg" />
+      <file href="mobile/5keKWUAwCnT.png" />
+      <file href="mobile/5zFj82KjbgE.png" />
+      <file href="mobile/6oFhLOO4zIw_80.jpg" />
+      <file href="mobile/6RBG9MnwhWj.png" />
+      <file href="story_content/6HbedKmBmdX_44100_48_0.mp3" />
+      <file href="mobile/5r28EE3sW4Z_P_720_300_480_480.png" />
+      <file href="mobile/5hfw09SXLiH_80_P_277_0_1813_994.jpg" />
+      <file href="mobile/6pOWGfBnbGS.png" />
+      <file href="mobile/5YJ9ExaGVBB_X.png" />
+      <file href="story_content/6kSxxNB3WFU_44100_48_0.mp3" />
+      <file href="mobile/63oCFEwfsuT.png" />
+      <file href="mobile/6F0ZrLAripf_P_411_246_1316_1151.png" />
+      <file href="mobile/5hLDbDQ8kDN_P_458_286_1262_1204.png" />
+      <file href="story_content/6adObE8tUz4_44100_48_0.mp3" />
+      <file href="story_content/video_6ERDd5yy2Qn_22_48_960x540.mp4" />
+      <file href="mobile/poster_6ehYFMWCxtI_video_6ERDd5yy2Qn_22_48_960x540.jpg" />
+      <file href="story_content/6bNL5hxbJWP_6RzdkcURr8o.png" />
+      <file href="mobile/5qOJMPNCBDx_80.jpg" />
+      <file href="mobile/6h5iKX3B3NA.png" />
+      <file href="mobile/6leABdQlssi.png" />
+      <file href="mobile/5sNdOcZNrLD.png" />
+      <file href="story_content/6WYNdkCh9mx_6RzdkcURr8o.png" />
+      <file href="mobile/6gzjm9fzu70_P_433_371_1174_502.png" />
+      <file href="mobile/6NiqVIzjP0O_P_482_418_1027_335.png" />
+      <file href="mobile/6BwegNWlwKi_P_454_371_1153_502.png" />
+      <file href="story_content/5bER19lCkSF_6RzdkcURr8o.png" />
+      <file href="mobile/6hQ9HlDoLfp_P_529_0_960_1414.png" />
+      <file href="mobile/poster_6SmOvfvcVIC_video_6ERDd5yy2Qn_22_48_960x540.jpg" />
+      <file href="mobile/5n8X5hKIKcA.png" />
+      <file href="mobile/6cTKsPoLuZG_P_1083_380_296_320.jpg" />
+      <file href="mobile/66AsIz1k3h9_P_437_0_1038_1093.png" />
+      <file href="mobile/5o0rxHb3uYk_P_512_88_896_880.png" />
+      <file href="mobile/603qIMYXeuH_P_96_44_1744_960.png" />
+      <file href="mobile/68szApR7bRG_P_90_316_1560_226.png" />
+      <file href="mobile/5YvoN5MsRl7_P_454_6_981_981.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aXV14SIJTg.js" />
+      <file href="html5/data/js/5bER19lCkSF.js" />
+      <file href="html5/data/js/5mt2Xiyifm7.js" />
+      <file href="html5/data/js/5pRKwfm2ym2.js" />
+      <file href="html5/data/js/5zXSv83fXD9.js" />
+      <file href="html5/data/js/66aFfA5WRHN.js" />
+      <file href="html5/data/js/67u1NeftQN4.js" />
+      <file href="html5/data/js/6aNWTI0wllk.js" />
+      <file href="html5/data/js/6aTdS1vmhjA.js" />
+      <file href="html5/data/js/6bNL5hxbJWP.js" />
+      <file href="html5/data/js/6jw7KqB7AO4.js" />
+      <file href="html5/data/js/6WYNdkCh9mx.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
